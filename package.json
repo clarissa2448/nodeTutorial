@@ -1,0 +1,26 @@
+{
+  "name": "nodedb",
+  "version": "1.0.0",
+  "description": "node stuff, intro to sql",
+  "main": "demo_UploadFiles.js",
+  "dependencies": {
+    "formidable": "^1.1.1",
+    "nodemailer": "^4.3.1",
+    "mysql": "^2.15.0",
+    "upper-case": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarissa2448/nodeTutorial.git"
+  },
+  "author": "Clarissa Xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clarissa2448/nodeTutorial/issues"
+  },
+  "homepage": "https://github.com/clarissa2448/nodeTutorial#readme"
+}
